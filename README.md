@@ -1,7 +1,7 @@
 # Reliability-Tools
-A collection of reliability engineering tools
+A collection of reliability engineering tools from the [Chaos Engineering Slack Community](http://gremlin.com/community).
 
-## Traffic capture, replay & synthesis
+## Capture, replay & synthesis
 
 #### http
 goreplay https://goreplay.org 
