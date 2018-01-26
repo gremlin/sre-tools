@@ -1,12 +1,12 @@
-# Reliability-Tools
-A collection of reliability engineering tools from the [Chaos Engineering Slack Community](http://gremlin.com/community).
+# SRE-Tools
+A collection of SRE tools from the [Chaos Engineering Slack Community](http://gremlin.com/community).
 
 ## Capture, replay & synthesis
 
 #### http
-goreplay https://goreplay.org 
-
 vegeta https://github.com/tsenart/vegeta  
+
+goreplay https://goreplay.org 
 
 #### tcp
 tcpreplay http://tcpreplay.appneta.com/
